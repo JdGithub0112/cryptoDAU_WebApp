@@ -1,5 +1,7 @@
 # Crypto DAU Web Portal 🌄🔮🚀
 
+![Crypto DAU Web Portal](crypto_portal_header
+
 ## Project Overview 📊
 
 Welcome to the Crypto DAU Web Portal, where you can explore Daily Active User (DAU) counts for the top 10 cryptocurrencies. This project fetches historical DAU data from the CoinGecko API and presents it using Plotly, creating a user-friendly line graph.
